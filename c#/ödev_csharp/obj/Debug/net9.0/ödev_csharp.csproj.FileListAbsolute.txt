@@ -1,0 +1,14 @@
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/bin/Debug/net9.0/ödev_csharp
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/bin/Debug/net9.0/ödev_csharp.deps.json
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/bin/Debug/net9.0/ödev_csharp.runtimeconfig.json
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/bin/Debug/net9.0/ödev_csharp.dll
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/bin/Debug/net9.0/ödev_csharp.pdb
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.AssemblyInfoInputs.cache
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.AssemblyInfo.cs
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.csproj.CoreCompileInputs.cache
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.dll
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/refint/ödev_csharp.dll
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.pdb
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ödev_csharp.genruntimeconfig.cache
+/home/minitheguitarist/RiderProjects/ödev_csharp/ödev_csharp/obj/Debug/net9.0/ref/ödev_csharp.dll
